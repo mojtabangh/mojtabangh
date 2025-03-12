@@ -1,6 +1,4 @@
-### Hey 👋
-
-I'm moji. I'm a back-end developer. nothing extra.
+just a backend developer. nothing extra.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
