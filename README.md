@@ -4,7 +4,6 @@
 
 
 <h3 align='center'>Here are a few things I've picked up along my learning journey.</h3>
-<p align='center'>
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
@@ -14,7 +13,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-</p>
 
 <h4 align='center'>[Linkedin](linkedin.com/in/mojtabangh/)</h4>
 <h4>[Telegram](t.me/Mojtaba_Naghavi)</h4>
