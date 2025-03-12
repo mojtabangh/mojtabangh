@@ -6,7 +6,7 @@
 <h3 align='center'>Here are a few things I've picked up along my learning journey.</h3>
 
 <p align='center'>
-  
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
