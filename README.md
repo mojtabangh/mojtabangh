@@ -1,9 +1,6 @@
 <p align='center'>
-#### Hey 👋
-</p>
-<p align='center'>
-I'm Jhey.
-</p>
+<h1 align='center'>Hey 👋</h1>
+<h3 align='center'>I'm moji</h3>
 
 ### Here are a few things I've picked up along my learning journey.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
