@@ -1,7 +1,7 @@
-<h2 align='center'>Hey 👋</h2>
-<hr>
+### Hey 👋
 
-#### Here are a few things I've picked up along my learning journey.
+I'm moji. I'm a back-end developer. nothing extra.
+
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
