@@ -1,6 +1,4 @@
 <h2 align='center'>Hey 👋</h2>
-<h3 align='center'>I'm moji</h3>
-
 <hr>
 
 #### Here are a few things I've picked up along my learning journey.
