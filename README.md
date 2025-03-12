@@ -1,13 +1,15 @@
 ## Hey! I'm moji 👋
 
-## Here are a few things I've picked up along my learning journey.
+### Here are a few things I've picked up along my learning journey.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)]
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)]
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)]
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)]
 
 [Linkedin](linkedin.com/in/mojtabangh/)
 [Telegram](t.me/Mojtaba_Naghavi)
