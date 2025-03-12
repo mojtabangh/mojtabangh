@@ -1,4 +1,4 @@
-just a backend developer. nothing extra.
+just a backend developer.
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
@@ -10,19 +10,4 @@ just a backend developer. nothing extra.
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
-[Linkedin](linkedin.com/in/mojtabangh/)
-[Telegram](t.me/Mojtaba_Naghavi)
-<!--
-**mojtabangh/mojtabangh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](linkedin.com/in/mojtabangh/) - [Telegram](t.me/Mojtaba_Naghavi)
