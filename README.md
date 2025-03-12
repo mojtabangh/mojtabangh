@@ -1,4 +1,3 @@
-<p align='center'>
 <h2 align='center'>Hey 👋</h2>
 <h3 align='center'>I'm moji</h3>
 
